@@ -1,4 +1,4 @@
-# AskSinAnalyzerXS-Rpi     ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+# AskSinAnalyzerXS-RPi     ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 Raspberry Pi Addon PCB für den [AskSinAnalyzerXS](https://github.com/psi-4ward/AskSinAnalyzerXS).  
 Dieser wird einfach auf die GPIO-Leist gesteckt.  
 Es kann der Standard Sketch aus dem [AskSinAnalyzer](https://github.com/jp112sdl/AskSinAnalyzer) Repo von Jérôme geflashed werden.  
