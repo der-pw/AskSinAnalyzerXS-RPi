@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name HB-Analyzer-HAT-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-Analyzer-HAT-rescue.lib)(options "")(descr ""))
+  (lib (name AskSin-Analyzer-XS-HAT-rescue)(type Legacy)(uri ${KIPRJMOD}/AskSin-Analyzer-XS-HAT-rescue.lib)(options "")(descr ""))
+  (lib (name AskSin-Analyzer-XS-RPi-rescue)(type Legacy)(uri ${KIPRJMOD}/AskSin-Analyzer-XS-RPi-rescue.lib)(options "")(descr ""))
+)
