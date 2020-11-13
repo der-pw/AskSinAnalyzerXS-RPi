@@ -7,7 +7,8 @@ Es kann der Standard Sketch aus dem [AskSinAnalyzer](https://github.com/jp112sdl
 
 Im Prinzip kann der AskSinAnalyzerXS-RPi nach dem Zusammenbau mit einem Programmer (FTDI) verbunden und geflashed werden.
 Der 3V Jumper kann berückt werden, damit die Stromversorgung vom FTDI erfolgt. DTR kann ebenfalls gebrückt werden und Reset auszulösen.
-Der 0.1uF in der DTR Strecke ist nicht auf dem PCB vorhanden und sollte ins Verbindungskabel integriert werden. Alterntaiv kann auch Reset im richtigen Moment kurz gegen GND gebrpckt werden.  
+Der 0.1uF in der DTR Strecke ist nicht auf dem PCB vorhanden und sollte ins Verbindungskabel integriert werden. Alterntaiv kann auch Reset im richtigen Moment kurz gegen GND gebrückt werden.  
+Nach erfolgreichem Flashvorgang und ersten Ausgaben auf der serielen Konsole, müssen die Lötrücken wieder entfernt werden, bevor die Platine auf den Raspberry Pi gesteckt wird.
 
 ![Unterseite](https://raw.githubusercontent.com/der-pw/AskSinAnalyzerXS-RPi/main/img/Belegung.jpg)  
 
