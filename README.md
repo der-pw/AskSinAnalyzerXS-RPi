@@ -6,9 +6,9 @@ Es kann der Standard Sketch (AskSinSniffer328P) aus dem [AskSinAnalyzer](https:/
 ![Draufsicht](https://raw.githubusercontent.com/der-pw/AskSinAnalyzerXS-RPi/main/img/top.jpg)
 
 Im Prinzip kann der AskSinAnalyzerXS-RPi nach dem Zusammenbau mit einem Programmer (FTDI) verbunden und geflashed werden.
-Der 3V Jumper kann berückt werden, damit die Stromversorgung vom FTDI erfolgt. DTR kann ebenfalls gebrückt werden und Reset auszulösen.
-Der 0.1uF in der DTR Strecke ist nicht auf dem PCB vorhanden und sollte ins Verbindungskabel integriert werden. Alterntaiv kann auch Reset im richtigen Moment kurz gegen GND gebrückt werden.  
-Nach erfolgreichem Flashvorgang und ersten Ausgaben auf der serielen Konsole, müssen die Lötrücken wieder entfernt werden, bevor die Platine auf den Raspberry Pi gesteckt wird.
+Der 3V Jumper kann gebrückt werden, damit die Stromversorgung vom FTDI erfolgt. DTR kann ebenfalls gebrückt werden um Reset auszulösen.
+Der 0.1uF in der DTR Strecke ist nicht auf dem PCB vorhanden und sollte ins Verbindungskabel integriert werden. Alternativ kann auch Reset im richtigen Moment kurz gegen GND gebrückt werden.  
+Nach erfolgreichem Flashvorgang und ersten Ausgaben auf der serielen Konsole, müssen die Lötbrücken wieder entfernt werden, bevor die Platine auf den Raspberry Pi gesteckt wird.
 
 ![Unterseite](https://raw.githubusercontent.com/der-pw/AskSinAnalyzerXS-RPi/main/img/Belegung.jpg)  
 
